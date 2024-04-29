@@ -175,17 +175,17 @@ MDCs key activities shall through its various activities Advance improved crop M
           <div className="w-full rounded-3xl bg-green-700 flex flex-wrap">
             <div className="w-full md:w-1/2 px-10 md:pl-16 py-10 md:py-20 ">
               <div className="">
-                <input type="text" class="form-input px-4 py-3 w-full rounded-xl" placeholder="Name:" />
+                <input type="text" className="form-input px-4 py-3 w-full rounded-xl" placeholder="Name:" />
               </div>
               <div className="pt-5">
-                <input type="email" class="form-input px-4 py-3 w-full rounded-xl" placeholder="Email:" />
+                <input type="email" className="form-input px-4 py-3 w-full rounded-xl" placeholder="Email:" />
               </div>
               <div className="pt-5">
-                <input type="text" class="form-input px-4 py-3 w-full rounded-xl" placeholder="Subject:" />
+                <input type="text" className="form-input px-4 py-3 w-full rounded-xl" placeholder="Subject:" />
               </div>
               <div className="pt-5">
                 <textarea
-                  class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+                  className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
                   rows="5"
                 ></textarea>
               </div>
