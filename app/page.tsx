@@ -154,7 +154,7 @@ export default function Home() {
             <div className="w-full md:w-1/2  px-10 md:pl-16 py-10 md:py-20 text-white">
               <div className="pt-1 pb-12 text-3xl font-bold">ABOUT MORINGA DEVELOPMENT CORPORATION</div>
               <p className="text-base">Moringa Development Corporation (MDC) is a private inititiative set-up in Zambia to promote investment in the entire Moringa Value Chain and in the process, help increase the income levels and improve the nutritional status of the general populace in the SADC region.
-MDC's key activities shall through its various activities Advance improved crop Management, Access to both localand international markets, Promote Value addition through Networking and Collaboration with stakeholders across the Moringa Value Chain</p>
+MDCs key activities shall through its various activities Advance improved crop Management, Access to both localand international markets, Promote Value addition through Networking and Collaboration with stakeholders across the Moringa Value Chain</p>
             </div>
             <div className="w-full md:w-1/2 h-full  relative">
               <div className="w-full h-full rounded-3xl overflow-hidden streamline_img ">
